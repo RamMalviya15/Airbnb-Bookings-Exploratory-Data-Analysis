@@ -9,7 +9,7 @@
 
 
 
-## **About the Dataset – AIRBNB BOOKINGS**
+## **About the Dataset – Airbnb Bookings**
 
 ### Dataset Information
 * Number of instances: 48895
