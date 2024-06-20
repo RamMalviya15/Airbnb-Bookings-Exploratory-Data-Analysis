@@ -39,7 +39,7 @@
 
 2. Loading the Dataset
 
-3. explore Dataset
+3. Explore Dataset
 
 3. Data Cleaning and manipulate
 
@@ -53,4 +53,4 @@
 
 ## **The purpose of the analysis** 
 
-understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
+Understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
