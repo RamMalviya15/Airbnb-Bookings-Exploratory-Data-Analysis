@@ -9,7 +9,7 @@
 
 
 
-## **About the Dataset – Airbnb Bookings**
+## **About this Project:**
 ### Data Collection: <br/>
 The Airbnb booking data is collected from a CSV file available at this link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data <br/>
 The CSV file is named as ~ Airbnb NYC 2019.csv. This dataset provides detailed information on various aspects of Airbnb bookings and is a rich source for analysis.
