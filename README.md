@@ -3,8 +3,7 @@ Airbnb is a popular website where people rent out their homes to travelers. As A
 The goal of this project is to conduct exploratory data analysis of Airbnb's booking data to extract valuable insights that will contribute to ongoing efforts to improve and evolve Airbnb's services. The project aims to offer actionable information that supports Airbnb in navigating its operational challenges effectively.
 
 
-
-# About this Project:
+## **About this Project:**
 ## **Data Collection:** <br/>
 The Airbnb booking data is collected from a CSV file available at this link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data <br/>
 The CSV file is named as ~ Airbnb NYC 2019.csv. This dataset provides detailed information on various aspects of Airbnb bookings and is a rich source for analysis.
@@ -14,31 +13,19 @@ The CSV file is named as ~ Airbnb NYC 2019.csv. This dataset provides detailed i
 * The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
 
 
-
-
 ## **Different Python libraries used to complete this EDA:**
 
 * Pandas
-
 * Matplotlib.Pyplot
-
 * Seaborn
-
 
 
 ## **Project Work flow**
 
 1. Importing Libraries
-
 2. Loading the Dataset
-
-3. Explore Dataset
-
 3. Data Cleaning and manipulate
-
 4. Handling Outliers
-
 5. Data Visualization
-
 6. Conclusion
 
